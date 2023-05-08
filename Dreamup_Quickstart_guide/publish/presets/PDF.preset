@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">false</index>
+    <toc>
+      <path>../../toc/Default.toc</path>
+      <name>Default</name>
+    </toc>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+    <relativeOutputPath type="boolean">false</relativeOutputPath>
+    <includereftopics type="boolean">true</includereftopics>
+  </content>
+  <starterPage>Default.pdf</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit></contextLimit>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <name>PDF</name>
+  <type>pdf</type>
+  <defaultTopic></defaultTopic>
+  <pdf>
+    <multiHeaders type="boolean">false</multiHeaders>
+    <margin type="array">
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+      <marginitem>15mm</marginitem>
+    </margin>
+    <multiheaders type="boolean">false</multiheaders>
+    <useTopicsAndChaptersForToc type="boolean">true</useTopicsAndChaptersForToc>
+    <portraitLayout type="boolean">true</portraitLayout>
+    <startChapterFromNewPage type="boolean">true</startChapterFromNewPage>
+    <splitPdf type="boolean">false</splitPdf>
+    <embeddFonts type="boolean">false</embeddFonts>
+    <compression type="boolean">false</compression>
+    <imagecompression type="boolean">false</imagecompression>
+    <allowprinting type="boolean">false</allowprinting>
+    <allowdegradedpritning type="boolean">false</allowdegradedpritning>
+    <allowassembly type="boolean">false</allowassembly>
+    <allowmodifycontents type="boolean">false</allowmodifycontents>
+    <allowcopy type="boolean">false</allowcopy>
+    <allowannotations type="boolean">false</allowannotations>
+    <allowscreenreaders type="boolean">false</allowscreenreaders>
+    <userpassword type="boolean">false</userpassword>
+    <ownerpassword type="boolean">false</ownerpassword>
+    <mathml type="boolean">false</mathml>
+    <conformance>PDF</conformance>
+    <toclevel type="number">1</toclevel>
+    <resolution>96</resolution>
+    <useCustomResoultion type="boolean">false</useCustomResoultion>
+    <mergePdfs type="boolean">true</mergePdfs>
+    <showWatermark type="boolean">false</showWatermark>
+    <embedMultimedia type="boolean">false</embedMultimedia>
+    <runJavaScript type="boolean">false</runJavaScript>
+    <startTopicsFromNewPage type="boolean">true</startTopicsFromNewPage>
+    <createTagged type="boolean">false</createTagged>
+  </pdf>
+  <title>Dreamup Quickstart guide</title>
+  <outputPath>/Users/amandameimin/Documents/My RoboHelp Projects/outputs/Dreamup Quickstart guide/PDF</outputPath>
+  <undefined type="boolean">false</undefined>
+  <metadataOptions>list</metadataOptions>
+  <patchHomepage type="boolean">true</patchHomepage>
+</preset>
