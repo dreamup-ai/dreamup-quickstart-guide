@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Dreamup Quickstart guide" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Second_Topic.htm">
+    
+    <topic>
+      Second_Topic.htm
+    </topic>
+    
+    <topic>
+      First_Topic.htm
+    </topic>
+    
+    <topic>
+      Background_Removal.htm
+    </topic>
+    
+    <topic>
+      Third_Topic.htm
+    </topic>
+    
+    <topic>
+      Using_Discord.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        Quickstart.htm
+      </filename>
+    </filenameentry>
+        
+    <filenameentry moniker="favicon">
+      <filename>
+        /Users/amandameimin/Documents/Work/My RoboHelp Projects/Dreamup_Quickstart_guide/contents/assets/images/Snip_TEMP0001.png
+      </filename>
+    </filenameentry>
+    
+  </filenamemap>
+</ppfml>
