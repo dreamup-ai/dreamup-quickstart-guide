@@ -1,4 +1,4 @@
-Using the Application
+# Using the Application
 Users are ready to start creating once logged into their account.
 
      1. Go to the Create tab at the top menu.

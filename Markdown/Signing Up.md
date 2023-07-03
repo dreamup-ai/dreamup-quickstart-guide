@@ -1,4 +1,4 @@
-Signing Up
+# Signing Up
 The sign-up process is pretty simple.
 
 Follow the steps below:
@@ -24,7 +24,7 @@ Follow the steps below:
 
        6. Start creating art in Dreamup.ai.
 
-Account and Collection Settings
+## Account and Collection Settings
 By navigating to your account, you can check your account settings. This includes the creator setting and collection settings.
 
 
@@ -49,7 +49,7 @@ For the collection settings, order the collection as desired.
 
 
 
-Deleting your account
+### Deleting your account
 Deleting your account is easy. Message Shawn on Discord to request the cancellation of your account.
 
 

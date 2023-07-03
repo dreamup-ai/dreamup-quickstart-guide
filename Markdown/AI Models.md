@@ -1,4 +1,4 @@
-AI Models
+# AI Models
 Selecting a Model
 There are several AI models compatible with the application. Different models will produce different images.
 

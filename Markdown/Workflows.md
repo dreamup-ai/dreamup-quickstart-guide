@@ -1,4 +1,4 @@
-Popular Workflows
+# Popular Workflows
 Prompting
 Prompt length matters. Shorter will show default styles. Longer text will result in more unique results.
 
