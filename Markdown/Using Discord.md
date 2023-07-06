@@ -1,10 +1,10 @@
 # Using Discord
 Discord is a community space to learn and share art. This is the best resource to learn about DreamUp and connect with other users. It is highly recommended to join the server.
 
-Signing Up for Discord
+## Signing Up for Discord
      1. First, create a Discord account or log in to your current account with Discord. There is also a link on the top  menu of DreamUp.ai.
 
-     2. Here is a link to the server: Discord 
+     2. Here is a link to the server: Discord [I'm an inline-style link](https://www.google.com)
 
 
 
@@ -16,7 +16,7 @@ Signing Up for Discord
 
      4. The user should have access to the server. If not, contact DreamUp.ai.
 
-Inside the Platform
+## Inside the Platform
 Once access to Discord is provided, view and comment on several channels. Users can ask questions and share art.
 
  
@@ -41,27 +41,24 @@ The ideas-and-feedback, prompt-tips, articles-and-links, and guides-and-tools ch
 
 
 
-Popular Channels
+## Popular Channels
 These links are some of the most popular channels on Discord. 
 
-General
+General [I'm an inline-style link](https://www.google.com)
 
-Ideas and feedback
+Ideas and feedback [I'm an inline-style link](https://www.google.com)
 
-Prompt tips 
+Prompt tips [I'm an inline-style link](https://www.google.com)
 
-Anime
+Anime [I'm an inline-style link](https://www.google.com)
 
+Landscapes [I'm an inline-style link](https://www.google.com)
 
-Landscapes
+Fantasy [I'm an inline-style link](https://www.google.com)
 
+Portraits [I'm an inline-style link](https://www.google.com)
 
-Fantasy
-
-
-Portraits
-
-Architecture
+Architecture [I'm an inline-style link](https://www.google.com)
 
 
 
