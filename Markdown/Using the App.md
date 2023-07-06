@@ -1,10 +1,9 @@
 # Using the Application
 Users are ready to start creating once logged into their account.
-
-1. Go to the **Create** tab at the top menu.
+ 1. Go to the **Create** tab at the top menu.
 
 ![Create button](./images/Snip_TEMP0001%205-1.png)
-2. Select the model type. See [AI Models](https:// "AI Models") for further details on the different models.
+    2. Select the model type. See [AI Models](https:// "AI Models") for further details on the different models.
 
 ![Model Tokens](./images/Snip_TEMP0001%203.png)
 
@@ -50,7 +49,7 @@ On the [DreamUp.ai website](https:// "DreamUp.ai website"), there is a top menu.
 
     4. The **select multiple** button allows you to select several images at a time and make changes to all of them.
 
-
+![Select Images](./images/Snip_TEMP3.png)
 
 
 
