@@ -4,13 +4,9 @@ Discord is a community space to learn and share art. This is the best resource t
 ## Signing Up for Discord
      1. First, create a Discord account or log in to your current account with Discord. There is also a link on the top  menu of DreamUp.ai.
 
-     2. Here is a link to the server: Discord [I'm an inline-style link](https://www.google.com)
+     2. Here is a link to the server: [Discord](https:// "Discord").
 
-
-
-
-
-     
+![Invite](./images/Snip_TEMP0001%208.png)     
 
      3. Accept the invite.
 
@@ -19,46 +15,39 @@ Discord is a community space to learn and share art. This is the best resource t
 ## Inside the Platform
 Once access to Discord is provided, view and comment on several channels. Users can ask questions and share art.
 
- 
-
-
-
+ ![Discord 1](./images/Snip_TEMP0001%2012.png)
 
 These channels cover a variety of art styles, prompt suggestions, and helpful information. Chat with other users of DreamUp.ai by using the comment box.
 
-
+![Discord 2](./images/WLcdy.png)
 
 
 
 The help information is in the Text Channels section.
 
-The ideas-and-feedback, prompt-tips, articles-and-links, and guides-and-tools channels are great resources for beginners.
+* The ideas-and-feedback, prompt-tips, articles-and-links, and guides-and-tools channels are great resources for beginners.
 
-
-
-
-
-
+![Discord 3](./images/Snip_TEMP0001%2020.png)
 
 
 ## Popular Channels
 These links are some of the most popular channels on Discord. 
 
-General [I'm an inline-style link](https://www.google.com)
+* [General](https://)
 
-Ideas and feedback [I'm an inline-style link](https://www.google.com)
+* [Ideas and feedback](https://)
 
-Prompt tips [I'm an inline-style link](https://www.google.com)
+* [Prompt tips](https://)
 
-Anime [I'm an inline-style link](https://www.google.com)
+* [Anime](https://)
 
-Landscapes [I'm an inline-style link](https://www.google.com)
+* [Landscapes](https://)
 
-Fantasy [I'm an inline-style link](https://www.google.com)
+* [Fantasy](https://)
 
-Portraits [I'm an inline-style link](https://www.google.com)
+* [Portraits](https://)
 
-Architecture [I'm an inline-style link](https://www.google.com)
+* [Architecture](https://)
 
 
 
