@@ -3,21 +3,20 @@ The sign-up process is pretty simple.
 
 Follow the steps below:
 
-      1. To start, go to https://DreamUp.ai/. 
+#### 1. To start, go to https://DreamUp.ai/. 
 
-      2. Click on the **Start Creating** button.
+#### 2. Click on the **Start Creating** button.
 ![Creating button](./images/Snip_TEMP0001%203-1.png)
 
-      3. A pop-up will appear on the next screen. At 
-the bottom, click the **Sign-up** link.
+#### 3. A pop-up will appear on the next screen. At the bottom, click the **Sign-up** link.
 
 ![Sign up](./images/Snip_TEMP0001%204-1.png)
 
-       4. Add your email and password. Click the **Sign-up** button. 
+#### 4. Add your email and password. Click the **Sign-up** button. 
 
-       5. Verify your account with a code. Click the **Confirm Account** button. If you do not receive an email, check your spam folder.
+#### 5. Verify your account with a code. Click the **Confirm Account** button. If you do not receive an email, check your spam folder.
 
-       6. Start creating art at <https://DreamUp.ai>.
+#### 6. Start creating art at <https://DreamUp.ai>.
 
 
 
@@ -30,11 +29,11 @@ To verify your account, sign-up. A code will be sent to your email. Check your s
 
 For the creator settings, follow these steps:
 
-         1. Fill in the default prompt. For suggestions, see the workflow section.
+#### 1. Fill in the default prompt. For suggestions, see the workflow section.
 
-         2. Use the negative prompt to avoid anything unwanted in the image.
+#### 2. Use the negative prompt to avoid anything unwanted in the image.
 
-             3. Select a **Default Aspect Ratio**.
+#### 3. Select a **Default Aspect Ratio**.
 
 For the collection settings, order the collection as desired.
 
