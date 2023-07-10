@@ -2,17 +2,13 @@
 ## Selecting a Model
 There are several AI models compatible with the application. Different models will produce different images.
 
-1. To select a model, click the **three dots** in the top left corner. If the user doesn't select a model, one is preselected.
+#### 1. To select a model, click the **three dots** in the top left corner. If the user doesn't select a model, one is preselected.
 
 ![Models](./images/Snip_TEMP0001%207.png)
 
-2. Pick a model from the list and click **Select**.
+#### 2. Pick a model from the list and click **Select**.
 
 ![Models](./images/Snip_TEMP0001%2018.png)
-
-
-
-
 
 
 ## Model Types

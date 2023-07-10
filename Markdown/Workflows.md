@@ -9,7 +9,7 @@
 
 * Use parentheses to emphasize words.
 
-* Discord is a great place to learn about effective prompts and workflows. See [Using Discord](https:// "Using Discord").
+* Discord is a great place to learn about effective prompts and workflows. See [Using Discord](https://dreamup.ai/ "Using Discord").
 
 * Reddit is another source. See further details on both below.
 
@@ -23,7 +23,7 @@
 
 * Check the title of the image.
 
-* See the prompt help section on the [Using the App](https:// "Using the App") tab.
+* See the prompt help section on the [Using the App](https://dreamup.ai/ "Using the App") tab.
 
 ## Types of popular images
 
@@ -47,7 +47,7 @@
 
 * Prompts can be very simple, and word choice is important for the best results. 
 
-* For negative prompting, see the [Quick Terms](https:// "Quick Terms") section.
+* For negative prompting, see the [Quick Terms](https://dreamup.ai/ "Quick Terms") section.
 
 ## Image to Image Workflow
 
@@ -71,7 +71,7 @@
 
 ## Getting suggestions in Discord
 
-* See the [Using Discord](https:// "Using Discord") section for further information.
+* See the [Using Discord](https://dreamup.ai/ "Using Discord") section for further information.
 
 ## Using Reddit
 
