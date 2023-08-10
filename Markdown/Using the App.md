@@ -46,5 +46,21 @@ On the [DreamUp.ai website](https://dreamup.ai/ "DreamUp.ai website"), there is 
 
 ![Select Images](./images/Snip_TEMP3.png)
 
+## Image Content Filters
 
+There are two choices for inappropriate content filters on DreamUp. Choose the filter by toggling your filter option.
+
+Here are the differences:
+
+### Frigg Checker
+* This model evaluates the prompt before creating the image. 
+* This filter is recommended for those that want permitted erotic content. Erotic content allowed on DreamUp may be displayed, including adult nudity. 
+* The filter blocks results based on the goal of the image expressed in the prompt. Requests for child pornography will be denied.
+* Specific keywords determine whether the image is blocked.
+
+### Stable Diffusion Safety Checker
+* This creates a set of images first. It blocks specific images based on certain features.
+* Nudity with certain body parts, including breasts and genitals, will be blocked. In general, a larger proportion of images are blocked by this filter.
+* Examples of appropriate content that may be blocked: some flowers, 
+* This safety check blocks some nudity in anime, fantasy images, renaissance art, nude paintings, etc.
 
