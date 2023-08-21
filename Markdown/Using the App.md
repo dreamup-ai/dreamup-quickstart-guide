@@ -61,6 +61,6 @@ Here are the differences:
 ### Stable Diffusion Safety Checker
 * This creates a set of images first. It blocks specific images based on certain features.
 * Nudity with certain body parts, including breasts and genitals, will be blocked. In general, a larger proportion of images are blocked by this filter.
-* Examples of appropriate content that may be blocked: some flowers, 
+* Examples of appropriate content that may be blocked: some flowers, men or boy, goth girls, or lolita.
 * This safety check blocks some nudity in anime, fantasy images, renaissance art, nude paintings, etc.
 
