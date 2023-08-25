@@ -52,7 +52,7 @@ There are two choices for inappropriate content filters on DreamUp. Choose the f
 
 Here are the differences:
 
-### Frigg Checker
+### Frigg Checker (Coming Soon)
 * This model evaluates the prompt before creating the image. 
 * This filter is recommended for those that want permitted erotic content. Erotic content allowed on DreamUp may be displayed, including adult nudity. 
 * The filter blocks results based on the goal of the image expressed in the prompt. Requests for child pornography will be denied.
