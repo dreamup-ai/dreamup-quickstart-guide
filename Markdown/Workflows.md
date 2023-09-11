@@ -57,6 +57,8 @@
 
 * In this version, AI uses the image and puts it in the model style, guided by your prompt.
 
+* In the image to image workflow, use controlnet to copy compositions or human poses from a reference image. Access controlnet through the pipeline menu. Edit the other settings as neccessary to produce the best image. 
+
 ## Background Removal
 
 * DreamUp.ai doesn't have background removal as a feature.
