@@ -57,7 +57,17 @@
 
 * In this version, AI uses the image and puts it in the model style, guided by your prompt.
 
-* In the image to image workflow, use controlnet to copy compositions or human poses from a reference image. Access controlnet through the pipeline menu. Edit the other settings as neccessary to produce the best image. 
+## Controlnet Workflow
+
+* Use controlnet to copy compositions or human poses from a reference image.
+
+* Create a control image from your initial image.
+
+* Click on the three dots for the image actions to the right of the image.
+
+* Access controlnet through the pipeline menu at the bottom.
+  
+* Edit the other settings as neccessary to produce the best image. 
 
 ## Background Removal
 
